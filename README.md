@@ -18,3 +18,4 @@ ____
 На основе документации к пульту ДУ мною был составлен тест-план и карта с видами проверок.
 
 [Тест-план ПДУ](https://docs.google.com/document/d/16wJs31stY3PSpK6LDCXaXy3Kfq_J7UJk/edit?usp=sharing&ouid=111491490772512681375&rtpof=true&sd=true)
+[Чек-лист](https://docs.google.com/spreadsheets/d/1u1ij0hV9utTfPwZ5qnzkwf-rJqAtCY2n/edit?usp=sharing&ouid=111491490772512681375&rtpof=true&sd=true)
