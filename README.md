@@ -20,3 +20,8 @@ ____
 
 [Тест-план ПДУ](https://docs.google.com/document/d/16wJs31stY3PSpK6LDCXaXy3Kfq_J7UJk/edit?usp=sharing&ouid=111491490772512681375&rtpof=true&sd=true)
 
+____
+## Учебный проект №3
+В ходе работы с сайтом http://test.itcobra.ru/ составила 10 баг-репортов в баг-трекинговой системе YouTrack(JetBrains).
+
+[Баг-репорты](https://drive.google.com/file/d/1_roHPC5n0kATY2dG5oNbThhHoleqHomA/view?usp=sharing)
