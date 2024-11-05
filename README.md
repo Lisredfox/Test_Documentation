@@ -24,4 +24,4 @@ ____
 ## Учебный проект №3
 В ходе работы с сайтом http://test.itcobra.ru/ составила 10 баг-репортов в баг-трекинговой системе YouTrack (JetBrains).
 
-[Баг-репорты](https://drive.google.com/file/d/1_roHPC5n0kATY2dG5oNbThhHoleqHomA/view?usp=sharing)
+[Баг-репорты](https://drive.google.com/file/d/1639OliFUyA0LdzHxKKz-Jvwb2xOgv1iz/view?usp=sharing)
